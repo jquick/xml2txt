@@ -1,0 +1,3 @@
+useage:
+
+./xlm2txt.rb <output_filename.txt> <input_filename.xml>
